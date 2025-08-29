@@ -1,8 +1,7 @@
 
-        h1{color:rgb(36, 100, 219)}
-        h2{color: rgb(220, 29, 150)}
+       
         #p_1{color:lightcoral; text-align: center;}
         .texto{color:lightseagreen; font-size: 45px;}
-        body{background-color: lightpink;}
+        body{background-color: black;}
         .nada{background-color: lightskyblue; border: 3px solid lightslategray; border-radius: 15px;}
-        
+        #p_2{border-radius: 50px;}
